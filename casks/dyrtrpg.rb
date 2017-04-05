@@ -1,4 +1,4 @@
-cask 'dyrt' do
+cask 'dyrtrpg' do
   version '17.04.05'
   sha256 '8ba62dde31c26f9b7cdb6a73d3deb83c272665fbd0630eee339d8e3e22d2bcf1'
 
