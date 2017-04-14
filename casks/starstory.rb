@@ -2,7 +2,7 @@ cask 'starstory' do
   version '17.04.14'
 
   url "https://downloads.sourceforge.net/starstory/Stable%20Releases/#{version}/Mac/StarStory_Mac_Music.zip"
-  sha256 '1be7bdf86ed63acd91881c1fb2f86280653dcfd1b00436f687a54942d309b4fc'
+  sha256 '70dc7fc3db615630e8991932bee5db304f79b029b910de680566d083d22d9193'
   
   name "Star Story"
   homepage 'http://starstory.sourceforge.net'
