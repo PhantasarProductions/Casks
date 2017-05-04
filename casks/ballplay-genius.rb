@@ -1,4 +1,4 @@
-cask 'ballplay-genius' do
+cask "ballplay-genius" do
 	version 'Stable
 	url 'https://downloads.sourceforge.net/ballplaygenius/build/BallPlay Genius MacOS X (x86).dmg
 	name 'BallPlay Genius
