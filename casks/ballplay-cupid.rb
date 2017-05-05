@@ -1,5 +1,5 @@
 cask "ballplay-cupid" do
-	version "16.05.30"
+	version "17.05.05"
 	url "https://downloads.sourceforge.net/ballplay-cupid/#{version}/BallPlayCupid_v#{version}_Mac64.zip"
 	name "BallPlay Cupid"
 	homepage "http://gamejolt.com/games/bpc/136187"
