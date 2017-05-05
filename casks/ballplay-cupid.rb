@@ -4,6 +4,6 @@ cask "ballplay-cupid" do
 	name "BallPlay Cupid"
 	homepage "http://gamejolt.com/games/bpc/136187"
 	app "BallPlay Cupid.app"
-	sha256 '8cf5ce27d21490c24eedf91e0ac2bc4a748ba8f4eb20cb7c1fc9442d2d580008'
+	sha256 'eb6d9fc74d14b32428c02ce8ba5b2b6ac26602df3dfed989098c27247b3c88f4'
 end
 
