@@ -9,3 +9,15 @@ A few important notes:
 - Some projects already finished and stable may not yet appear here, but they will be soon. If you really want me to hurry a project up,then post it in the issue tracker of this repository, or in the issue tracker of the game in question (it is has an repository).
 
 
+
+Please note, by default none of these casks will be callable by HomeBrew, unless you've called one cask in this tap then the tap will be imported.
+
+First time usage: (replace "caskname" with the actual cask name.
+~~~shell
+   brew cask phantasarproductions/caskname
+~~~
+
+If you've installed a cask from this tap before you can just install these the same way as any other regular cask
+~~~shell
+    brew cask caskname
+~~~
