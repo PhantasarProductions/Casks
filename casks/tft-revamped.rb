@@ -4,6 +4,6 @@ cask "tft-revamped" do
 	name "The Fairy Tale REVAMPED"
 	homepage "https://tricky.gamejolt.io/tft"
 	app "The Fairy Tale REVAMPED.app"
-	sha256 '38568ddc1d8c5ebcbb8fb9c634073a7865e148f425fe7e0f894b0b46e3e23b4a'
+	sha256 '09dd2b6ce0548e53ea847af94e72420e9112d2f0d7961b35ae311c48966d0c8d'
 end
 
