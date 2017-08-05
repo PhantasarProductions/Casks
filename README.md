@@ -12,12 +12,42 @@ A few important notes:
 
 Please note, by default none of these casks will be callable by HomeBrew, unless you've called one cask in this tap then the tap will be imported.
 
+## Installation:
+
 First time usage: (replace "caskname" with the actual cask name.
 ~~~shell
-   brew cask phantasarproductions/caskname
+   brew cask install phantasarproductions/caskname
 ~~~
 
 If you've installed a cask from this tap before you can just install these the same way as any other regular cask
 ~~~shell
-    brew cask caskname
+    brew cask install caskname
 ~~~
+
+
+
+## Update
+
+If there is an update please type the next command to get the newest version:
+~~~shell
+	brew cask reinstall caskname
+~~~
+
+## Hey! The cask doesn't install or update and I am sure I typed everything well!
+
+Possibly Homebrew uses outdated data then. In order to save time Homebrew does not update its data every time its called.
+Just type:
+
+~~~shell
+	brew update
+~~~
+
+That should make things up to date.
+
+Please note do not type.
+
+~~~shell
+	brew cask update
+~~~
+
+That syntax was deprecated awhile ago, and may even have been removed from HomeBrew by now.
