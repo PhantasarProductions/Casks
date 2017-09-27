@@ -4,7 +4,7 @@ cask "tft-revamped" do
 	name "The Fairy Tale REVAMPED"
 	homepage "https://tricky.gamejolt.io/tft"
 	app "The Fairy Tale REVAMPED.app"
-	sha256 "9513469d8ab2384101a768702a192c1b8ccb8ba088c3ea6394bce1b3f70214c2"
+        sha256 "7a07d3f7cca5c0b38ca811984ef8da536da32932d68c1a6cce33ec2462b930bf"
 
         caveats <<-EOS.undent
 █████████████████████████████████████████████████████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█████████████████████████████████████████████████████████
