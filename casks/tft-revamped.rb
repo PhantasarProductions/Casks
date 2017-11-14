@@ -1,10 +1,10 @@
 cask "tft-revamped" do
-	version "17.10.31"
-	url "https://downloads.sourceforge.net/the-fairy-tale-revamped/17.10.31/TFT_MF_The_Fairy_Tale_REVAMPED_Beta_for_Mac_FullAudio.zip"
+	version "17.11.14"
+	url "https://downloads.sourceforge.net/the-fairy-tale-revamped/17.11.14/TFT_MF_The_Fairy_Tale_REVAMPED_Beta_for_Mac_FullAudio.zip"
 	name "The Fairy Tale REVAMPED"
 	homepage "https://tricky.gamejolt.io/tft"
 	app "The Fairy Tale REVAMPED.app"
-	sha256 "fd255c706be751c34a005478a5a15ffc83e497f295ca59937d932759cf028435"
+	sha256 "75246874e94ea23c6753aad11c23c8e93f11c63761801a3efb305a990372faa9"
 	caveats <<-EOS.undent
 █████████████████████████████████████████████████████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████▓▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓████████████████████████████████████████████████████
@@ -77,6 +77,6 @@ cask "tft-revamped" do
 Thank you for installing and trying, The Fairy Tale REVAMPED!!
 
 		Written by: Jeroen P. Broks
-		Version: 17.10.31
+		Version: 17.11.14
 	EOS
 end
