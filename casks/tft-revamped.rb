@@ -1,6 +1,6 @@
 cask "tft-revamped" do
 	version "17.12.23"
-	url "https://downloads.sourceforge.net/the-fairy-tale-revamped/17.12.23/TFT_MF_The_Fairy_Tale_REVAMPED_Beta_for_Mac_FullAudio.zip"
+	url "https://vorboss.dl.sourceforge.net/project/the-fairy-tale-revamped/17.12.23/TFT_MF_The_Fairy_Tale_REVAMPED_Beta_for_Mac_FullAudio.zip"
 	name "The Fairy Tale REVAMPED"
 	homepage "https://tricky.gamejolt.io/tft"
 	app "The Fairy Tale REVAMPED.app"
