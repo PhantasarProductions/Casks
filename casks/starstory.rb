@@ -1,5 +1,5 @@
 cask 'starstory' do
-  version '17.06.04fx'
+  version '17.06.04'
 
   #url "https://downloads.sourceforge.net/starstory/Stable%20Releases/#{version}/Mac/StarStory_Mac_Music.zip"
   url "https://iweb.dl.sourceforge.net/project/starstory/Stable%20Releases/#{version}/Mac/StarStory_Mac_Music.zip"
