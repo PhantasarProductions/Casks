@@ -1,5 +1,5 @@
 cask "tft-revamped" do
-	version "18.06.02"
+	version "18.06.02-fix01"
 	url "https://netix.dl.sourceforge.net/project/the-fairy-tale-revamped/18.06.02/TFT_MF_The_Fairy_Tale_REVAMPED_Beta_for_Mac_FullAudio.zip"
 	name "The Fairy Tale REVAMPED"
 	homepage "https://tricky.gamejolt.io/tft"
