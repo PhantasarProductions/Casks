@@ -7,6 +7,6 @@ cask 'dyrtrpg' do
   name 'The Secrets of Dyrt'
   homepage 'http://dyrt.sourceforge.net/'
 
-  app "The Secrets of Dyrt.app"
+  app "Dyrt.app"
 end
 
