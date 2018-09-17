@@ -7,6 +7,6 @@ cask 'mydata' do
   name "MyData"
   homepage 'https://github.com/TrickyGameTools/MyData-Mono'
 
-  app "MyApp.app"
+  app "MyData.app"
 end
 
