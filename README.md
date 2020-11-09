@@ -51,3 +51,11 @@ Please note do not type.
 ~~~
 
 That syntax was deprecated awhile ago, and may even have been removed from HomeBrew by now.
+
+
+
+# NOTICE
+
+I am no longer a Mac user, and Apple's paranoid attitude is something I'm fed up with, so I am not interested in focusing on Mac anymore. If Apple's views change, then things may change, but by that time I'll most likely dedicate a new repository to HomeBrew (assuming it still exists then, as I do not know that).
+
+This repository will be locked. Whoever has a use for it may still use it, as it can still be cloned, but it won't be updated, anymore.
